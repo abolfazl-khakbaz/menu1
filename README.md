@@ -6,12 +6,6 @@ A responsive RGB menu built with HTML, CSS, and vanilla JavaScript. This compone
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Click here to view the live demo] (https://menu1-od2cq8jax-abolfazl-khakbazs-projects.vercel.app)
-
----
-
 ## ✨ Features
 
 - Mobile-friendly toggle animation
